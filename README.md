@@ -72,4 +72,4 @@ AI 기초 역량을 다지기 위한 핵심 퀘스트입니다.
 2025-12-23	MainQuest04	-
 2025-03-18	MainQuest05	-
 
-Git push without token test.
+
